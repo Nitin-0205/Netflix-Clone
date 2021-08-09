@@ -233,7 +233,7 @@ body{
 }
 
 summary{
-    width:100%;
+    width:100px;
     padding:10px 20px;
     display:flex;
     justify-content: space-between;
