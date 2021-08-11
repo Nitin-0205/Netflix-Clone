@@ -34,6 +34,10 @@ a{
     font-weight:100;
     color:gray;
     font-size: 0.8rem;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
 .foot_dropdown_container{
     border: 1px solid gray;
